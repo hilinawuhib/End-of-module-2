@@ -1,69 +1,54 @@
-body{
-    background-color: rgb(222, 238, 232);
+body {
+  background-color: rgb(222, 238, 232);
 }
 
-.gog-logo-class{
-    width: 50px;
-    height: 50px;
-    border-radius: 5px;
+.gog-logo-class {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
 }
 .nav-link {
-    color: antiquewhite;
+  color: antiquewhite;
 }
-.bi{
-    margin-left: 20px;
-    margin-right: 10px;
+.bi {
+  margin-left: 20px;
+  margin-right: 10px;
 }
-.card{
-    margin-right: 15px;
+.card {
+  margin-right: 15px;
 }
-.table-image{
-    width: 180px;
-    height: 100px;
-    object-fit: contain;
+.table-image {
+  width: 180px;
+  height: 100px;
+  object-fit: contain;
 }
-td{
-    float: right;
+td {
+  float: right;
 }
-.last-content{
-    height:200px;
-    width: 200px;
+.last-content {
+  height: 200px;
+  width: 200px;
 }
-.last-images{
-    height: 200px;
-    object-fit:cover ;
+.last-images {
+  height: 200px;
+  object-fit: cover;
 }
 
-  
-
-footer{
-    background-color: rgb(68, 61, 61);
+footer {
+  background-color: rgb(68, 61, 61);
 }
-.btn-success{
-    position:absolute;
-    z-index: 2;
-    margin-left:53%;
-    margin-top: 19%;
-    width:200px;
-  
-   
- 
-     }
-     .imgcontainer{
-         height: 600px;
-         width: 500px;
-         object-fit:fill;
-         
-
-     }
-     p{
-         font-size: large;
-     }
-     
-   
-    
-   
-  
-
-
-
+.btn-success {
+  position: absolute;
+  z-index: 2;
+  margin-left: 53%;
+  margin-top: 19%;
+  width: 200px;
+}
+.imgcontainer {
+  height: 600px;
+  width: 500px;
+  object-fit: fill;
+}
+p {
+  font-size: large;
+}
