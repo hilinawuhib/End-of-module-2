@@ -41,8 +41,9 @@ footer{
 }
 .btn-success{
     position:absolute;
-    z-index: 1;
-  float: right;
+    z-index: 2;
+   
+  
 }
 
 
