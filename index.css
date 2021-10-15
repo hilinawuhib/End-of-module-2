@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(222, 238, 232);
+}
+
+.gog-logo-class{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.nav-link {
+    color: antiquewhite;
+}
+.bi{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.card{
+    margin-right: 15px;
+}
+.table-image{
+    width: 180px;
+    height: 100px;
+    object-fit: contain;
+}
+td{
+    float: right;
+}
+.last-content{
+    height:50px;
+    width: 50px;
+}
+
